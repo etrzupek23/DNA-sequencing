@@ -1,6 +1,6 @@
 /*
 This program identifies whether there is a protein in a strand of DNA
-Created by Emma on Feb. 11th, 2020
+Created by Emma on Feb. 28th, 2020
 Intermediate Programming - Block 8
 */
 //imports ArrayList
